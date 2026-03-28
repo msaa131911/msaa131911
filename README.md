@@ -41,14 +41,14 @@
 ![Commits](https://img.shields.io/badge/Commits-1200-brightgreen?style=for-the-badge&logo=github&logoColor=white)
 ![Repos](https://img.shields.io/badge/Repos-35-blue?style=for-the-badge&logo=github)
 
-## 📈 Graph Section – Quantum/ML Themed
 
-### 1️⃣ GitHub Contribution Heatmap
+
+GitHub Contribution Heatmap
 ![GitHub Contribution](https://ghchart.rshah.org/msaa131911)
 
 ---
 
-### 2️⃣ Project Progress
+Project Progress
 | Project | Status |
 |---------|--------|
 | 🤖 ML Automation Simulation | ![60%](https://img.shields.io/badge/Progress-60%25-yellow?style=for-the-badge) |
@@ -58,26 +58,7 @@
 
 ---
 
-### 3️⃣ Quantum & ML Skills Radar
-![Skills Radar](https://quickchart.io/chart?c={
-  type:'radar',
-  data:{
-    labels:['Python','C++','ML','Quantum','TensorFlow','PyTorch'],
-    datasets:[{
-      label:'Skill Intensity',
-      data:[90,75,85,70,80,80],
-      backgroundColor:'rgba(0,255,255,0.2)',
-      borderColor:'#00ffff',
-      pointBackgroundColor:'#ff00ff'
-    }]
-  },
-  options:{
-    scales:{
-      r:{angleLines:{color:'#00ffff'}, grid:{color:'#444'}}
-    },
-    plugins:{legend:{labels:{color:'#00ffff'}}}
-  }
-})
+
  
 
 

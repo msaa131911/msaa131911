@@ -38,43 +38,15 @@
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=msaa131911&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=msaa131911&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=msaa131911&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+
 
  
 
-### Quantum & ML Progress
-![Quantum Progress](https://img.shields.io/badge/Quantum-Intermediate-blue)  
-![ML Progress](https://img.shields.io/badge/ML-Advanced-green)
 
----
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=msaa131911&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=msaa131911&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 
-[![](https://visitcount.itsvg.in/api?id=msaa131911&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🚀 Project Progress
-
-| Project | Status |
-|---------|--------|
-| ML Automation Simulation | ![60%](https://img.shields.io/badge/Progress-60%25-yellow) |
-| Quantum Algorithms | ![40%](https://img.shields.io/badge/Progress-40%25-orange) |
-| AI Data Processing | ![80%](https://img.shields.io/badge/Progress-80%25-brightgreen) |
-| Python ML Library Experiments | ![50%](https://img.shields.io/badge/Progress-50%25-blue) |
-![Quantum](https://img.shields.io/badge/Quantum-Progressing-blue?style=for-the-badge&logo=Qiskit&logoColor=white&labelColor=000000)

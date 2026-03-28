@@ -45,9 +45,7 @@
 
 ---
 
-## 📈 Graph Section
-### GitHub Contribution Heatmap
-![GitHub Contribution](https://ghchart.rshah.org/msaa131911)  
+ 
 
 ### Quantum & ML Progress
 ![Quantum Progress](https://img.shields.io/badge/Quantum-Intermediate-blue)  

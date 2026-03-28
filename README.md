@@ -77,3 +77,4 @@
 | Quantum Algorithms | ![40%](https://img.shields.io/badge/Progress-40%25-orange) |
 | AI Data Processing | ![80%](https://img.shields.io/badge/Progress-80%25-brightgreen) |
 | Python ML Library Experiments | ![50%](https://img.shields.io/badge/Progress-50%25-blue) |
+![Quantum](https://img.shields.io/badge/Quantum-Progressing-blue?style=for-the-badge&logo=Qiskit&logoColor=white&labelColor=000000)

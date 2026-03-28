@@ -38,7 +38,8 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msaa131911&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&border_radius=15&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff)
+![Commits](https://img.shields.io/badge/Commits-1200-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Repos-35-blue?style=for-the-badge&logo=github)
 
 
  

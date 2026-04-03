@@ -36,27 +36,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
----
-
-![Commits](https://img.shields.io/badge/Commits-1200-brightgreen?style=for-the-badge&logo=github&logoColor=white)
-![Repos](https://img.shields.io/badge/Repos-35-blue?style=for-the-badge&logo=github)
 
 
 
-GitHub Contribution Heatmap
-![GitHub Contribution](https://ghchart.rshah.org/msaa131911)
-
----
-
-Project Progress
-| Project | Status |
-|---------|--------|
-| 🤖 ML Automation Simulation | ![60%](https://img.shields.io/badge/Progress-60%25-yellow?style=for-the-badge) |
-| ⚛️ Quantum Algorithms | ![40%](https://img.shields.io/badge/Progress-40%25-orange?style=for-the-badge) |
-| 📊 AI Data Processing | ![80%](https://img.shields.io/badge/Progress-80%25-brightgreen?style=for-the-badge) |
-| 🐍 Python ML Experiments | ![50%](https://img.shields.io/badge/Progress-50%25-blue?style=for-the-badge) |
-
----
 
 
  

@@ -30,12 +30,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=for-the-badge&logo=opencv)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-Automation-orange?style=for-the-badge)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-red?style=for-the-badge)
 ![Pillow](https://img.shields.io/badge/Pillow-Image%20Processing-yellow?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
+
 
 
 

@@ -1,4 +1,4 @@
-![Banner](imge.png)
+![github cover](https://github.com/user-attachments/assets/8c71072c-e90a-4e31-94ec-3c65dbe8dea1)
 # 💫 About Me
 💻 I’m currently working on Machine Learning and data processing  
 🤝 I’m looking to collaborate on AI & automation-based projects  

@@ -1,3 +1,4 @@
+![Banner](imge.png)
 # 💫 About Me
 💻 I’m currently working on Machine Learning and data processing  
 🤝 I’m looking to collaborate on AI & automation-based projects  

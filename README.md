@@ -36,7 +36,7 @@
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-red?style=for-the-badge)
 ![Pillow](https://img.shields.io/badge/Pillow-Image%20Processing-yellow?style=for-the-badge)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=msaa131911) 
+
 
 
 

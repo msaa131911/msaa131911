@@ -15,7 +15,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/msaa131911) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/msaa131911) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:msaa131911@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MS--AA-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ms-aa-08839a418)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MS--AA-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ms-aa-08839a418/)
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/ms_aa)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/u/msaa131911/)

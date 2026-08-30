@@ -20,8 +20,6 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/ms_aa)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/u/msaa131911/)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=grey)](https://www.codewars.com/users/MD.SHOAIB%20ALIF)
-[![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=white)](https://pathfinder.w3schools.com/my-progress)
-[![Wokwi](https://img.shields.io/badge/Wokwi-0085FF?logoColor=white)](https://wokwi.com/dashboard/projects)
 [![Kaggle](https://img.shields.io/badge/Kaggle-MSAA131911-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/msaa131911)
 
 ---
